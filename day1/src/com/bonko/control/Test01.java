@@ -2,7 +2,7 @@ package com.bonko.control;
 
 import java.util.Scanner;
 
-public class Test {
+public class Test01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double sum = 0.0;
